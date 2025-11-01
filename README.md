@@ -1,6 +1,6 @@
 
 
-# Ag Bot
+# AgBot
 
 This project involves creating an obstacle-avoiding robot that can navigate autonomously and respond to voice commands. It utilizes an ultrasonic sensor to detect obstacles and servo motors for scanning the environment. The robot's movement is controlled using an Arduino Uno and C++ code in the Arduino IDE.
 
